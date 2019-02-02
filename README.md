@@ -1,4 +1,4 @@
-# RacunalnaGrafika
+# Racunalna Grafika
 Laboratorijske vježbe iz predmeta računalna grafika
 
 Priložena su i 3 videa u kojima demonstriram mogućnosti seminara.
