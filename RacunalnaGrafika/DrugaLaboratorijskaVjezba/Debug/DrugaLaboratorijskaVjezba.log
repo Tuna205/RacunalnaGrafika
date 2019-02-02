@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Grafika2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  Grafika2.cpp
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(190): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(219): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(222): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(223): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(224): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(225): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(249): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\antun mesar\desktop\racunalnagrafika-master\racunalnagrafika\drugalaboratorijskavjezba\grafika2.cpp(250): warning C4305: '-=': truncation from 'double' to 'float'
+  DrugaLaboratorijskaVjezba.vcxproj -> C:\Users\Antun Mesar\Desktop\RacunalnaGrafika-master\RacunalnaGrafika\Debug\DrugaLaboratorijskaVjezba.exe
